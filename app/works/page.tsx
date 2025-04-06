@@ -25,6 +25,7 @@ export default function WorksPage() {
       title: 'Portfolio Website',
       imageUrl: '/portfolio.png',
       category: 'Website',
+      link: "https://portfolio-theta-orcin-81.vercel.app/",
       description: 'A minimalist portfolio website for a photographer with gallery features.'
     },
     {
